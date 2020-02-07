@@ -4,3 +4,8 @@ ab c
 d e f g h
 i j klmnop
 Thu 06 Feb 2020 09:15:12 PM EST
+
+Thu 06 Feb 2020 09:44:07 PM EST
+[git:bug/1_add_to_file1]
+Added a few more lines from this branch
+Thu 06 Feb 2020 09:44:07 PM EST
