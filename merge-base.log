@@ -1,0 +1,5 @@
+# [eric@frances: ~/software/github/ejricha/git_branching] on git:master o # 21:37:12 
+$ git merge-base origin/master origin/feature/A_easy
+7ad195203bb422efd6251fe222fc1c760739d2d0
+$ git merge-base origin/master origin/feature/B_hard
+7ad195203bb422efd6251fe222fc1c760739d2d0
