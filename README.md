@@ -2,4 +2,4 @@
 Toy repo to test git branching/merging strategy
 
 ## Branch
-`master`
+`feature/A_easy`
